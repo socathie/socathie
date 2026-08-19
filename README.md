@@ -4,9 +4,11 @@ Applied AI researcher and founder, Hong Kong. Building [Helpurr](https://helpurr
 researching how minds (human and artificial) make decisions, and training
 professionals to work with AI.
 
-- 🐱 [Helpurr](https://helpurr.app) — AI-powered cat wellness, more than 4,500 caregivers
-- 🔐 [circomlib-ml](https://github.com/socathie/circomlib-ml) · [keras2circom](https://github.com/socathie/keras2circom) — open-source ZKML
-- 🌐 [cathie.so](https://cathie.so) · 💼 [ikz.ai](https://ikz.ai) — consulting & corporate training
+[Helpurr](https://helpurr.app) is an AI-powered cat wellness app that more than 4,500 caregivers use to track their cats' health. I design and build it end to end.
+
+[circomlib-ml](https://github.com/socathie/circomlib-ml) and [keras2circom](https://github.com/socathie/keras2circom) let you prove neural network inference in zero knowledge, work that started at the Ethereum Foundation.
+
+More at [cathie.so](https://cathie.so). For consulting and corporate training, [ikz.ai](https://ikz.ai).
 
 ---
 
