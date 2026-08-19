@@ -1,7 +1,7 @@
 # Cathie So, PhD
 
 Applied AI researcher and founder, Hong Kong. Building [Helpurr](https://helpurr.app),
-researching how minds (human and artificial) make decisions, and training
+researching how brains and models represent the world, and training
 professionals to work with AI.
 
 [Helpurr](https://helpurr.app) is an AI-powered cat wellness app that more than 4,500 caregivers use to track their cats' health. I design and build it end to end.
